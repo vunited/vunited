@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
@@ -36,7 +36,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -50,7 +50,13 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -63,14 +69,14 @@ h6,
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Source Sans Pro', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -411,9 +417,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -481,16 +484,7 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#slider-h FONT {
-  color: #ffffff;
-}
-#msg-box2-i .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-i .mbr-section-subtitle {
-  color: #a0a0a0;
-}
-#features1-e .striped .mbr-cards-col:nth-child(2n+1) {
+#features2-13 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
 #pricing-table1-m .mbr-section__container .mbr-section-title {
@@ -498,6 +492,10 @@ h6,
 }
 #pricing-table1-m .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#social-buttons4-u .mbr-section-title,
+#social-buttons4-u .btn-social {
+  color: #fff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
