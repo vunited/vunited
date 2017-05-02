@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 
@@ -36,7 +36,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -50,7 +50,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .btn {
   border-radius: 1.6em;
@@ -69,14 +69,14 @@ h6,
   font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-author-desc {
   font-family: 'Source Sans Pro', sans-serif;
   font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
@@ -484,14 +484,20 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#features2-13 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
 #pricing-table1-m .mbr-section__container .mbr-section-title {
   color: #fff;
 }
 #pricing-table1-m .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#pricing-table1-m .mbr-section__container .mbr-section-title FONT {
+  color: #ffffff;
+}
+#features2-14 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features2-14 .mbr-cards-col:nth-child(odd) .card-subtitle FONT {
+  color: #cccccc;
 }
 #social-buttons4-u .mbr-section-title,
 #social-buttons4-u .btn-social {
