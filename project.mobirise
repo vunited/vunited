@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.10.3",
-    "name": "My Site",
+    "name": "微联",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,11 +23,12 @@
       }
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 43,
-    "favicon": "",
-    "noImageResize": "true",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": ""
+    "uniqCompNum": 51,
+    "favicon": "@PROJECT_PATH@/assets/images/32-128x128-20.png",
+    "noImageResize": "",
+    "cookiesAlert": "我们使用最新的HTML5缓存技术，给您以舒适的浏览体验<a href='index.html'>阅读相关</a>.",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -131,19 +132,27 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VUNITED · 微联&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">首页</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">新闻事件</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">合作加盟</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">案例</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">用户中心</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://vunited.com.cn/web/index.php?c=user&amp;a=login&amp;\">登陆</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">注册</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">首页</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">新闻事件</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">案例</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">微联 · 头条</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">微联 · 论坛</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">合作加盟</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">用户中心</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">关注</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">联系我们</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://vunited.com.cn/web/index.php?c=user&amp;a=login&amp;\">登陆</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">注册</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title FONT": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead FONT": {
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-16",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1455894127589-22f75500213a-2000x1474-70.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1487017159836-4e23ece2e4cf.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -158,27 +167,67 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "<font color=\"#000000\">VUNITED 微联</font>",
+          "text": "<font color=\"#000000\">微联不只是一个网络公司，更是一个新型创客团队</font>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">了解故事<br></a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c0a375",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "FONT": {
+              "color": "#cccccc"
+            },
+            "SMALL": {
+              "color": "#cccccc"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-17",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#303030",
+            "showMeta": true
+          },
+          "title": "案例 · DEMO",
+          "meta": "微联 VUNITED自2014年成立至今的所有案例，<font color=\"#c0a375\">并且在不断更新…</font><br>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "gallery1",
+          "_styles": {
+            "LI": {
+              "color": "#c0a375",
+              "text-align": "center"
+            },
+            ".mbr-gallery-item > div > span FONT": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "images": [
               {
-                "tags": "智慧出行",
+                "tags": "极客工坊",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/3333-2000x1125-91-800x450-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3333-2000x1125-91.jpg",
+                "caption": "<font color=\"#000000\">大连游艇项目</font>",
                 "active": false
               },
               {
@@ -186,9 +235,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/beacon-2000x1332-81-800x532-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beacon-2000x1332-81.jpg",
+                "caption": "智慧社区项目",
                 "active": false
               },
               {
@@ -196,9 +245,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/beacon-management-open-source-2000x1127-17-800x450-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/beacon-management-open-source-2000x1127-17.jpg",
+                "caption": "大型B2B2C网站项目-联合开发",
                 "active": false
               },
               {
@@ -208,7 +257,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here",
+                "caption": "锦州农村淘宝项目",
                 "active": false
               },
               {
@@ -218,7 +267,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here",
+                "caption": "留学移民项目",
                 "active": false
               },
               {
@@ -228,23 +277,73 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here",
+                "caption": "O2O项目",
                 "active": false
               },
               {
-                "tags": "活动策划文案",
+                "tags": "策划文案",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here",
+                "caption": "校园夺宝活动",
+                "active": false
+              },
+              {
+                "tags": "极客工坊",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/presspad-magazines-lounge-800x437-84.png",
+                "image": "@PROJECT_PATH@/assets/images/presspad-magazines-lounge.gif",
+                "caption": "地下及室内定位项目",
+                "active": false
+              },
+              {
+                "tags": "极客工坊",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/boy-measuring-in-space-2000x1050-3-800x420-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/boy-measuring-in-space-2000x1050-3.jpg",
+                "caption": "众筹创意工业设计",
+                "active": false
+              },
+              {
+                "tags": "极客工坊",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ibeacon-460x345-2000x1500-68-800x600-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ibeacon-460x345-2000x1500-68.jpg",
+                "caption": "低功耗硬件产品开发",
+                "active": false
+              },
+              {
+                "tags": "极客工坊",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/32-cs1e1-1000x-2000x1338-89-800x535-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/32-cs1e1-1000x-2000x1338-89.jpg",
+                "caption": "二维码一物一码技术研讨",
                 "active": true
+              },
+              {
+                "tags": "极客工坊",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ibeacon-smart-car-drive-2000x1500-96-800x600-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ibeacon-smart-car-drive-2000x1500-96.jpg",
+                "caption": "NFC 离线支付项目",
+                "active": false
               }
             ],
-            "spacing": "0",
+            "spacing": "1",
             "showText": true,
-            "filter": true,
+            "filter": false,
             "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
@@ -258,8 +357,8 @@
           "_name": "footer1",
           "_anchor": "footer1-2",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -269,18 +368,30 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) VUNITED."
         },
         {
           "_styles": {
             ".mbr-section__container .mbr-section-title": {
-              "color": "#fff"
+              "color": "#c0a375"
             },
             ".mbr-section__container .mbr-section-subtitle": {
               "color": "#a0a0a0"
             },
             ".mbr-section__container .mbr-section-title FONT": {
+              "color": "#c0a375"
+            },
+            ".mbr-plan-title FONT": {
               "color": "#ffffff"
+            },
+            ".mbr-plan-price-desc FONT": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle FONT": {
+              "color": "#cccccc"
+            },
+            "UL": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -312,199 +423,176 @@
             "fourthType": ""
           },
           "title": "<font color=\"#000000\">服务</font>&nbsp;service",
-          "subtitle": "Pricing table with four columns and solid color background.",
+          "subtitle": "<font color=\"#000000\">我们的服务以及相关报价</font>",
           "label1": "HOT!",
-          "title1": "STANDARD",
-          "subtitle1": "Description",
-          "currency1": "$",
+          "title1": "<font color=\"#000000\">试用版</font>",
+          "subtitle1": "免费3天<br>",
+          "currency1": "",
           "price1": "0",
-          "period1": "/mo.",
-          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>",
-          "label2": "HOT!",
-          "title2": "BUSINESS",
-          "subtitle2": "Description",
-          "currency2": "$",
-          "price2": "0",
-          "period2": "/mo.",
-          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>",
+          "period1": "/元.",
+          "description1": "<font color=\"#000000\">满足基本的演示需求</font>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">免费域名一个</li><li class=\"list-group-item\">单页Html5</li><li class=\"list-group-item\">支持绑定一个公众号</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>订购</a>",
+          "label2": "热门 · HOT",
+          "title2": "商用版",
+          "subtitle2": "一年授权<br>",
+          "currency2": "",
+          "price2": "2000",
+          "period2": "/元.",
+          "description2": "<font color=\"#cccccc\">提供 微信 SAAS 全部应用系统功能</font><br><font color=\"#ffffff\">满足您的公司或者商户的微信营销活动</font><br><font color=\"#ffffff\">并免费送网站SEO优化一次</font>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">一个1G网站空间</li><li class=\"list-group-item\">优质.com域名</li><li class=\"list-group-item\">可绑定多个微信平台</li><li class=\"list-group-item\">且支持全部功能</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>",
           "label3": "HOT!",
-          "title3": "PREMIUM",
+          "title3": "中小型企业",
           "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>",
+          "currency3": "",
+          "price3": "5千",
+          "period3": "/元起",
+          "description3": "<font color=\"#ffffff\">制定相关推广以及营销策划案</font><br><font color=\"#ffffff\">品牌主、广告主、流量主、PGC等资源对接，让您的企业以及品牌更有知名度。并送企业级网站。</font>",
+          "list3": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">聘请3年以上工作经验团队</span><br><li class=\"list-group-item\">制定专业的市场推广方向</li><li class=\"list-group-item\">DSP／SSP／SEO 多维度推广</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>",
           "label4": "HOT!",
-          "title4": "ULTIMATE",
+          "title4": "参与大型项目",
           "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>"
+          "currency4": "",
+          "price4": "10万",
+          "period4": "/元起",
+          "description4": "<font color=\"#ffffff\">网络相关项目参与合作，如项目开发以及前期市场以及大数据调研等。并提供优质人力资源。</font>",
+          "list4": "拥有相关成功案例",
+          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>"
         },
         {
-          "_inherit": "features1",
           "_tags": [
             "Theme"
           ],
-          "_name": "features2",
+          "_name": "testimonials1",
           "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
+            ".mbr-section-title": {
+              "color": "#c0a375"
             },
-            ".mbr-cards-col:nth-child(odd) .card-subtitle FONT": {
+            ".card-footer > small": {
+              "color": "#c0a375",
+              "font-size": "18px"
+            },
+            ".card-footer > div": {
+              "color": "#ffffff"
+            },
+            ".card-footer > div FONT": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title FONT": {
+              "color": "#c0a375"
+            },
+            ".mbr-section-subtitle FONT": {
               "color": "#cccccc"
             }
           },
-          "_anchor": "features2-14",
+          "testimonial": [
+            {
+              "text": "创业不易，仍需坚持！",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/beacon-management-open-source-160x90-46.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "&nbsp;Richard Zhang",
+              "authorBio": "CEO"
+            },
+            {
+              "text": "对于技术的无尽探索让我着迷！",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-160x106-94.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Jason Sang",
+              "authorBio": "CTO"
+            },
+            {
+              "text": "不忘初心，方得始终！",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/ibeacon-smartphone-160x111-99.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "微联网络科技",
+                  "title": "微联网络科技",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "<font color=\"#000000\">Jessica Chen</font>",
+              "authorBio": "CMO<br>"
+            }
+          ],
+          "_anchor": "testimonials1-18",
           "_params": {
-            "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": "3",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#303030",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
+            "showTitle": true,
+            "showSubtitle": true
           },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "desktop",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title1": "Bootstrap 技术",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "mobile",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title2": "<font color=\"#000000\">HTML5 自适应</font>",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title3": "CSS3 优化",
-          "subtitle3": "<font color=\"#000000\">更为绚丽的网站动效，更能吸引用户访问</font>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title4": "SEO／SEM 技术",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features2",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-u",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a>  "
+          "title": "<font color=\"#000000\">我们有话说</font>",
+          "subtitle": "<font color=\"#000000\">90后团队说</font>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "FONT": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
+              "font-size": "16px"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#c0a375"
+            },
+            ".list-group-text": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-v",
           "_params": {
             "paddingTop": 3,
@@ -534,7 +622,7 @@
               "active": true
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "微联 vunited &nbsp;忠于科技 臻于至善<br>",
           "media1": {
             "iconFont": {
               "active": true,
@@ -544,7 +632,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "text2": "+86 13354281998",
           "media2": {
             "iconFont": {
               "active": true,
@@ -554,7 +642,7 @@
               "family": "et-line"
             }
           },
-          "text3": "1234 Street Name, City AA 99999",
+          "text3": "高新园区高能街125号11F，云计算中心，大连, 中国 🇨🇳 116000<br>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -564,10 +652,10 @@
               "family": "et-line"
             }
           },
-          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "text4": "<font color=\"#ffffff\">vunited@vunited.net</font>",
           "title1": "Categories",
-          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "text5": "<li>商务合作</li><li>友情链接</li><li>资源下载&nbsp;</li><li><span style=\"color: rgb(255, 255, 255); font-size: 0.875rem; line-height: 1.8;\">法务合规</span></li><li>技术文档</li>",
+          "text6": "Github：https://github.com/vunited/<br><br>如果批评不自由，则赞美无意义 👉",
           "form": {
             "title": "MESSAGE",
             "action": "vunited@vunited.net",
@@ -676,7 +764,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
@@ -684,19 +771,190 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "globe-2",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VUNITED · 微联&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">首页</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">新闻事件</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">合作加盟</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">案例</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">用户中心</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://vunited.com.cn/web/index.php?c=user&amp;a=login&amp;\">登陆</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">注册</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">首页</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">新闻事件</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">案例</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">微联 · 头条</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">微联 · 论坛</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">合作加盟</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">用户中心</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">关注</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">联系我们</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://vunited.com.cn/web/index.php?c=user&amp;a=login&amp;\">登陆</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">注册</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-1b",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BACKGROUND VIDEO",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-1d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "BACKGROUND VIDEO",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1e",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "微联 · 预见你我&nbsp;",
+          "text": "<p>We think</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_name": "footer1",
           "_anchor": "footer1-1",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -706,7 +964,68 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) VUNITED."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "FULL SCREEN SLIDER",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">与我初识</a> "
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "VIDEO SLIDE",
+                "showText": true,
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "IMAGE SLIDE",
+                "showText": true,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider-19",
+          "articleLayout": false
         }
       ]
     },
@@ -805,8 +1124,8 @@
           "_name": "footer1",
           "_anchor": "footer1-3",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -816,7 +1135,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) VUNITED."
         }
       ]
     },
@@ -915,8 +1234,8 @@
           "_name": "footer1",
           "_anchor": "footer1-5",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -926,7 +1245,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) VUNITED."
         }
       ]
     },
@@ -1025,8 +1344,8 @@
           "_name": "footer1",
           "_anchor": "footer1-7",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1036,7 +1355,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) VUNITED."
         }
       ]
     },
@@ -1135,8 +1454,8 @@
           "_name": "footer1",
           "_anchor": "footer1-9",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1146,7 +1465,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) VUNITED."
         }
       ]
     },
@@ -1245,8 +1564,8 @@
           "_name": "footer1",
           "_anchor": "footer1-b",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1256,7 +1575,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) VUNITED."
         }
       ]
     }
