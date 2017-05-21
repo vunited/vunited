@@ -228,7 +228,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-16-800x533-53.jpg",
                 "image": "@PROJECT_PATH@/assets/images/2-2000x1333-16.jpg",
                 "caption": "企业公司VIS设计 - 微联网络",
-                "active": true
+                "active": false
               },
               {
                 "tags": "极客工坊",
@@ -348,6 +348,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ibeacon-smart-car-drive-2000x1500-96-800x600-12.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ibeacon-smart-car-drive-2000x1500-96.jpg",
                 "caption": "NFC 离线支付项目",
+                "active": false
+              },
+              {
+                "tags": "极客工坊",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467456760203-273273db54e8-2000x1341-27-800x536-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467456760203-273273db54e8-2000x1341-27.jpg",
+                "caption": "某宝自拍杆促销活动 - 留住好时光",
+                "active": true
+              },
+              {
+                "tags": "极客工坊",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-16-800x533-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333-16.jpg",
+                "caption": "企业公司VIS设计 - 微联网络",
                 "active": false
               }
             ],
@@ -511,7 +531,7 @@
           },
           "testimonial": [
             {
-              "text": "<div><span style=\"font-size: 1.125rem; line-height: 2;\">10Richard·Zhang</span><br></div><div>CEO/创始人</div><div><span style=\"text-align: left; line-height: 2;\">- 2013年台北市营销大赛导师</span><br></div><div>- 2014年北大创业精英邀请导师</div><div>- I DO 婚戒特聘市场营销师</div><div>- 至今曾辅导多家传统企业转型互联网</div><div><br></div><div><span style=\"line-height: 2;\">获奖资历</span></div><div><span style=\"line-height: 2;\">- 2010年台北科技大学毕业，于同年获得“优秀毕业学员称号”</span><br></div><div><span style=\"line-height: 2;\">- 2010年4月于台北成立“微联邦”，获得最佳创业团队称号</span><br></div><div><span style=\"line-height: 2;\">- 2011年考取大连东北财经大学经济学研究生</span><br></div><div><span style=\"line-height: 2;\">- 2012年获得MBA工商管理学学位</span></div><div><br></div><div><b>擅长DSP／BTR／SSP </b>广告精准投放以及数据分析；目前为多家公司进行在线竞品、SEM、渠道整合外聘顾问。</div>",
+              "text": "<div><span style=\"font-size: 1.125rem; line-height: 2;\">Richard·Zhang</span><br></div><div>CEO/创始人</div><div><span style=\"text-align: left; line-height: 2;\">- 2013年台北市营销大赛导师</span><br></div><div>- 2014年北大创业精英邀请导师</div><div>- I DO 婚戒特聘市场营销师</div><div>- 至今曾辅导多家传统企业转型互联网</div><div><br></div><div><span style=\"line-height: 2;\">获奖资历</span></div><div><span style=\"line-height: 2;\">- 2010年台北科技大学毕业，于同年获得“优秀毕业学员称号”</span><br></div><div><span style=\"line-height: 2;\">- 2010年4月于台北成立“微联邦”，获得最佳创业团队称号</span><br></div><div><span style=\"line-height: 2;\">- 2011年考取大连东北财经大学经济学研究生</span><br></div><div><span style=\"line-height: 2;\">- 2012年获得MBA工商管理学学位</span></div><div><br></div><div><b>擅长DSP／BTR／SSP </b>广告精准投放以及数据分析；目前为多家公司进行在线竞品、SEM、渠道整合外聘顾问。</div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/beacon-management-open-source-160x90-46.jpg",
