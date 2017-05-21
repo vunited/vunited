@@ -567,6 +567,9 @@ h6,
 #testimonials1-18 .card-block {
   text-align: left;
 }
+#testimonials1-18 .card-block P {
+  font-size: 14px;
+}
 #contacts3-v P {
   color: #ffffff;
 }

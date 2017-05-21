@@ -235,9 +235,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3333-2000x1125-91-800x450-12.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3333-2000x1125-91.jpg",
-                "caption": "<font color=\"#000000\">大连游艇项目 - 大连星海游艇展</font>",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2635-c28816db5fe219e289a1069f6012ceef-2000x1351-95-800x540-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2635-c28816db5fe219e289a1069f6012ceef-2000x1351-95.jpg",
+                "caption": "<font color=\"#000000\">大连游艇项目 - 大连游艇歇会</font>",
                 "active": false
               },
               {
@@ -247,27 +247,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/beacon-2000x1332-81-800x532-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/beacon-2000x1332-81.jpg",
-                "caption": "智慧校园项目 - 大连学生帮帮团",
-                "active": false
-              },
-              {
-                "tags": "微信应用",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/beacon-management-open-source-2000x1127-17-800x450-3.jpg",
-                "image": "@PROJECT_PATH@/assets/images/beacon-management-open-source-2000x1127-17.jpg",
-                "caption": "大型B2B2C网站项目 - &nbsp;SAAS级电商系统",
-                "active": false
-              },
-              {
-                "tags": "近场通讯",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "农村淘宝项目 - 五常大米",
+                "caption": "IBEACON - 室内定位技术开发",
                 "active": false
               },
               {
@@ -281,74 +261,14 @@
                 "active": false
               },
               {
-                "tags": "竞价排名",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "O2O项目 - 装灯网",
-                "active": false
-              },
-              {
                 "tags": "策划文案",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "校园夺宝活动&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "极客工坊",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/presspad-magazines-lounge-800x437-84.png",
-                "image": "@PROJECT_PATH@/assets/images/presspad-magazines-lounge.gif",
-                "caption": "地下及室内定位项目",
-                "active": false
-              },
-              {
-                "tags": "极客工坊",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boy-measuring-in-space-2000x1050-3-800x420-27.jpg",
-                "image": "@PROJECT_PATH@/assets/images/boy-measuring-in-space-2000x1050-3.jpg",
-                "caption": "众筹创意工业设计",
-                "active": false
-              },
-              {
-                "tags": "极客工坊",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ibeacon-460x345-2000x1500-68-800x600-17.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ibeacon-460x345-2000x1500-68.jpg",
-                "caption": "低功耗硬件产品开发",
-                "active": false
-              },
-              {
-                "tags": "极客工坊",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/32-cs1e1-1000x-2000x1338-89-800x535-50.jpg",
-                "image": "@PROJECT_PATH@/assets/images/32-cs1e1-1000x-2000x1338-89.jpg",
-                "caption": "二维码一物一码技术研讨",
-                "active": false
-              },
-              {
-                "tags": "极客工坊",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ibeacon-smart-car-drive-2000x1500-96-800x600-12.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ibeacon-smart-car-drive-2000x1500-96.jpg",
-                "caption": "NFC 离线支付项目",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1452830978618-d6feae7d0ffa-2000x1333-39-800x533-90.jpg",
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1452830978618-d6feae7d0ffa-2000x1333-39.jpg",
+                "caption": "电商产品详情页设计&nbsp;",
+                "active": true
               },
               {
                 "tags": "极客工坊",
@@ -358,16 +278,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467456760203-273273db54e8-2000x1341-27-800x536-48.jpg",
                 "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1467456760203-273273db54e8-2000x1341-27.jpg",
                 "caption": "某宝自拍杆促销活动 - 留住好时光",
-                "active": true
+                "active": false
               },
               {
                 "tags": "极客工坊",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-16-800x533-53.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1333-16.jpg",
-                "caption": "企业公司VIS设计 - 微联网络",
+                "thumb": "@PROJECT_PATH@/assets/images/2000x1351-78-800x540-37.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2000x1351-78.jpg",
+                "caption": "大连无人机租赁",
+                "active": false
+              },
+              {
+                "tags": "策划文案",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "智慧校园项目 - 校园夺宝活动&nbsp;",
                 "active": false
               }
             ],
@@ -455,13 +385,13 @@
           "title": "<font color=\"#000000\">服务</font>&nbsp;service",
           "subtitle": "<font color=\"#000000\">我们的服务以及相关报价</font>",
           "label1": "HOT!",
-          "title1": "<font color=\"#000000\">试用版</font>",
-          "subtitle1": "免费3天<br>",
+          "title1": "营销版",
+          "subtitle1": "方案费<br>",
           "currency1": "",
-          "price1": "0",
+          "price1": "100",
           "period1": "/元.",
-          "description1": "<font color=\"#000000\">满足基本的演示需求</font>",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">免费域名一个</li><li class=\"list-group-item\">单页Html5</li><li class=\"list-group-item\">支持绑定一个公众号</li></ul>",
+          "description1": "<font color=\"#000000\">满足中小企业产品及服务营销需求</font>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">一套PPT文档</li><li class=\"list-group-item\">一套Word文档</li><li class=\"list-group-item\">二选一</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-white-outline btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-hearth mbr-iconfont mbr-iconfont-btn\"></span>订购</a>",
           "label2": "热门 · HOT",
           "title2": "商用版",
@@ -474,19 +404,19 @@
           "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>",
           "label3": "HOT!",
           "title3": "中小型企业",
-          "subtitle3": "Description",
+          "subtitle3": "参与合作<br>",
           "currency3": "",
           "price3": "5千",
-          "period3": "/元起",
+          "period3": "/元起.",
           "description3": "<font color=\"#ffffff\">制定相关推广以及营销策划案</font><br><font color=\"#ffffff\">品牌主、广告主、流量主、PGC等资源对接，让您的企业以及品牌更有知名度。并送企业级网站。</font>",
           "list3": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">聘请3年以上工作经验团队</span><br><li class=\"list-group-item\">制定专业的市场推广方向</li><li class=\"list-group-item\">DSP／SSP／SEO 多维度推广</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>",
           "label4": "HOT!",
           "title4": "参与大型项目",
-          "subtitle4": "Description",
+          "subtitle4": "参与投标<br>",
           "currency4": "",
           "price4": "10万",
-          "period4": "/元起",
+          "period4": "/元起.",
           "description4": "<font color=\"#ffffff\">网络相关项目参与合作，如项目开发以及前期市场以及大数据调研等。并提供优质人力资源。</font>",
           "list4": "拥有相关成功案例",
           "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">订购<br></a>"
@@ -527,11 +457,14 @@
             },
             ".card-block": {
               "text-align": "left"
+            },
+            ".card-block P": {
+              "font-size": "14px"
             }
           },
           "testimonial": [
             {
-              "text": "<div><span style=\"font-size: 1.125rem; line-height: 2;\">Richard·Zhang</span><br></div><div>CEO/创始人</div><div><span style=\"text-align: left; line-height: 2;\">- 2013年台北市营销大赛导师</span><br></div><div>- 2014年北大创业精英邀请导师</div><div>- I DO 婚戒特聘市场营销师</div><div>- 至今曾辅导多家传统企业转型互联网</div><div><br></div><div><span style=\"line-height: 2;\">获奖资历</span></div><div><span style=\"line-height: 2;\">- 2010年台北科技大学毕业，于同年获得“优秀毕业学员称号”</span><br></div><div><span style=\"line-height: 2;\">- 2010年4月于台北成立“微联邦”，获得最佳创业团队称号</span><br></div><div><span style=\"line-height: 2;\">- 2011年考取大连东北财经大学经济学研究生</span><br></div><div><span style=\"line-height: 2;\">- 2012年获得MBA工商管理学学位</span></div><div><br></div><div><b>擅长DSP／BTR／SSP </b>广告精准投放以及数据分析；目前为多家公司进行在线竞品、SEM、渠道整合外聘顾问。</div>",
+              "text": "<div><span style=\"font-size: 1.125rem; line-height: 2;\">Richard Zhang</span><br></div><div>CEO/创始人</div><div><span style=\"text-align: left; line-height: 2;\">- 2013年台北市营销大赛导师</span><br></div><div>- 2014年北大创业精英邀请导师</div><div>- I DO 婚戒特聘市场营销师</div><div>- 至今曾辅导多家传统企业转型互联网</div><div><br></div><div><span style=\"line-height: 2;\">获奖资历</span></div><div><span style=\"line-height: 2;\">- 2010年台北科技大学毕业，于同年获得“优秀毕业学员称号”</span><br></div><div><span style=\"line-height: 2;\">- 2010年4月于台北成立“微联邦”，获得最佳创业团队称号</span><br></div><div><span style=\"line-height: 2;\">- 2011年考取大连东北财经大学经济学研究生</span><br></div><div><span style=\"line-height: 2;\">- 2012年获得MBA工商管理学学位</span></div><div><br></div><div><b>擅长DSP／BTR／SSP </b>广告精准投放以及数据分析；目前为多家公司进行在线竞品、SEM、渠道整合外聘顾问。</div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/beacon-management-open-source-160x90-46.jpg",
@@ -549,7 +482,7 @@
               "authorBio": "CEO"
             },
             {
-              "text": "Jason·Sang<br><div></div><div>CTO/技术总监</div><div>- 2014年 大连大学生创业-大连东软团队技术部</div><div>- 2014年8月与台北科技大学交换生 Richard·Zhang 相识，创立公司-微联VUNITED</div><div>- 2014年，开发校园夺宝系统，首次尝试线上线下引流校园营销模式，获得校内外一致好评。目前项目原型已经正式上线 APPSTORE</div><div><span style=\"text-align: left; line-height: 2;\">- 2014年毕业后于大连五大银行技术部交流并实习，进行货币条码技术、及网络安全及反病毒工作。</span></div><div><span style=\"text-align: left; line-height: 2;\">- 2014年利用微信漏洞，协助大连软件园警方打掉跨省微商诈骗团伙。事件涉及金额10万，并全部追回。</span></div><div><span style=\"text-align: left; line-height: 2;\">- 2015年 正式运营公司微联 VUNITED 并通过主流世界级社交媒体进行业务合作。</span><span style=\"text-align: left; line-height: 2;\"><br></span></div><div><br></div><div><span style=\"line-height: 2;\">擅长网络安全维护、私人信息安全、防跟踪、反间谍技术、网络系统搭建、大中小网站建设。曾一人独立完成“网络B2B2C平台”搭建。目前为某艺术平台技术顾问及股东。</span><br></div>",
+              "text": "Jason Sang<br><div></div><div>CTO/技术总监</div><div>- 2014年 大连大学生创业-大连东软团队技术部</div><div>- 2014年8月与台北科技大学交换生 Richard·Zhang 相识，创立公司-微联VUNITED</div><div>- 2014年，开发校园夺宝系统，首次尝试线上线下引流校园营销模式，获得校内外一致好评。目前项目原型已经正式上线 APPSTORE</div><div><span style=\"text-align: left; line-height: 2;\">- 2014年毕业后于大连五大银行技术部交流并实习，进行货币条码技术、及网络安全及反病毒工作。</span></div><div><br></div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-160x106-94.jpg",
@@ -567,7 +500,7 @@
               "authorBio": "CTO"
             },
             {
-              "text": "不忘初心，方得始终！",
+              "text": "Jessica Chen<div>CMO/市场总监</div><div>- 有国际知名品牌营销工作经验，拥有完备的营销理论知识体系和丰富的管理实战经验，能够影响公司战略决策；</div><div>- 有行业影响力，对市场品牌运作有深刻洞察，善于挑选业界最优秀的合作伙伴；</div><div>- 了解业界发展趋势和创新的营销模式，对业务发展方向和市场策略有前瞻性，能根据受众需求，在充分了解客户的基础上，进行营销策略的整体创新；</div><div>- 能快速组建团队，独立运作部门。&nbsp;</div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/ibeacon-smartphone-160x111-99.jpg",
