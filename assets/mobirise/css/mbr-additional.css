@@ -1,6 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+
+
 
 
 
@@ -484,24 +489,103 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-16 .mbr-section-title FONT {
+  color: #ffffff;
+}
+#header1-16 .mbr-section-lead FONT {
+  color: #c1c1c1;
+}
+#header3-17 .mbr-section-title,
+#header3-17 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-17 H3 {
+  color: #c0a375;
+  font-family: 'Roboto', sans-serif;
+}
+#header3-17 FONT {
+  color: #cccccc;
+}
+#header3-17 SMALL {
+  color: #cccccc;
+}
+#gallery1-c LI {
+  color: #c0a375;
+  text-align: center;
+}
+#gallery1-c .mbr-gallery-item > div > span FONT {
+  color: #ffffff;
+}
 #pricing-table1-m .mbr-section__container .mbr-section-title {
-  color: #fff;
+  color: #c0a375;
 }
 #pricing-table1-m .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
 }
 #pricing-table1-m .mbr-section__container .mbr-section-title FONT {
+  color: #c0a375;
+}
+#pricing-table1-m .mbr-plan-title FONT {
   color: #ffffff;
 }
-#features2-14 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
+#pricing-table1-m .mbr-plan-price-desc FONT {
+  color: #ffffff;
 }
-#features2-14 .mbr-cards-col:nth-child(odd) .card-subtitle FONT {
+#pricing-table1-m .mbr-section__container .mbr-section-subtitle FONT {
   color: #cccccc;
 }
-#social-buttons4-u .mbr-section-title,
-#social-buttons4-u .btn-social {
-  color: #fff;
+#pricing-table1-m UL {
+  color: #efefef;
+}
+#testimonials1-18 .mbr-section-title {
+  color: #c0a375;
+}
+#testimonials1-18 .card-footer > small {
+  color: #c0a375;
+  font-size: 18px;
+}
+#testimonials1-18 .card-footer > div {
+  color: #ffffff;
+}
+#testimonials1-18 .card-footer > div FONT {
+  color: #ffffff;
+}
+#testimonials1-18 .mbr-section-title FONT {
+  color: #c0a375;
+}
+#testimonials1-18 .mbr-section-subtitle FONT {
+  color: #cccccc;
+}
+#testimonials1-18 .card-block DIV {
+  font-size: 13px;
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#testimonials1-18 .card-block SPAN {
+  text-align: center;
+}
+#testimonials1-18 .card-block {
+  text-align: left;
+}
+#contacts3-v P {
+  color: #ffffff;
+}
+#contacts3-v FONT {
+  color: #ffffff;
+}
+#contacts3-v STRONG {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+  font-size: 16px;
+}
+#contacts3-v LI {
+  color: #ffffff;
+}
+#contacts3-v SPAN {
+  color: #c0a375;
+}
+#contacts3-v .list-group-text {
+  color: #ffffff;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -569,6 +653,28 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
+}
+#content5-1a .mbr-section-title,
+#content5-1a p {
+  color: #fff;
+}
+#content8-1b .mbr-section-title,
+#content8-1b p {
+  text-align: right;
+  color: #fff;
+}
+#content5-1c .mbr-section-title,
+#content5-1c p {
+  color: #fff;
+}
+#content8-1d .mbr-section-title,
+#content8-1d p {
+  text-align: right;
+  color: #fff;
+}
+#msg-box3-1e .mbr-section-title,
+#msg-box3-1e p {
+  color: #000;
 }
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;

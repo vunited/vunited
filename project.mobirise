@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VUNITED · 微联&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">首页</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">新闻事件</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">案例</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">微联 · 头条</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">微联 · 论坛</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">合作加盟</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">用户中心</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">关注</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">联系我们</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://vunited.com.cn/web/index.php?c=user&amp;a=login&amp;\">登陆</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">注册</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">微联 · 首页</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-c\">微联 · 案例</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#gallery1-c\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">微联 · 头条</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">电商</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">VR／AR</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ibeacon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">金融</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://www.vunited.net/bbs/\">微联 · 论坛</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">推广计划</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">联系我们</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">微博</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">微信</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://vunited.com.cn/web/index.php?c=user&amp;a=login&amp;\">登陆</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#\">注册</a></li>"
         },
         {
           "_tags": [
@@ -225,9 +225,19 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1333-16-800x533-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333-16.jpg",
+                "caption": "企业公司VIS设计 - 微联网络",
+                "active": true
+              },
+              {
+                "tags": "极客工坊",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3333-2000x1125-91-800x450-12.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3333-2000x1125-91.jpg",
-                "caption": "<font color=\"#000000\">大连游艇项目</font>",
+                "caption": "<font color=\"#000000\">大连游艇项目 - 大连星海游艇展</font>",
                 "active": false
               },
               {
@@ -237,7 +247,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/beacon-2000x1332-81-800x532-2.jpg",
                 "image": "@PROJECT_PATH@/assets/images/beacon-2000x1332-81.jpg",
-                "caption": "智慧社区项目",
+                "caption": "智慧校园项目 - 大连学生帮帮团",
                 "active": false
               },
               {
@@ -247,7 +257,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/beacon-management-open-source-2000x1127-17-800x450-3.jpg",
                 "image": "@PROJECT_PATH@/assets/images/beacon-management-open-source-2000x1127-17.jpg",
-                "caption": "大型B2B2C网站项目-联合开发",
+                "caption": "大型B2B2C网站项目 - &nbsp;SAAS级电商系统",
                 "active": false
               },
               {
@@ -257,7 +267,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "锦州农村淘宝项目",
+                "caption": "农村淘宝项目 - 五常大米",
                 "active": false
               },
               {
@@ -267,7 +277,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "留学移民项目",
+                "caption": "SSP广告投放 - 某知名留学机构",
                 "active": false
               },
               {
@@ -277,7 +287,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "O2O项目",
+                "caption": "O2O项目 - 装灯网",
                 "active": false
               },
               {
@@ -287,7 +297,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "校园夺宝活动",
+                "caption": "校园夺宝活动&nbsp;",
                 "active": false
               },
               {
@@ -328,7 +338,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/32-cs1e1-1000x-2000x1338-89-800x535-50.jpg",
                 "image": "@PROJECT_PATH@/assets/images/32-cs1e1-1000x-2000x1338-89.jpg",
                 "caption": "二维码一物一码技术研讨",
-                "active": true
+                "active": false
               },
               {
                 "tags": "极客工坊",
@@ -368,7 +378,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) VUNITED."
+          "text": "Copyright (c) VUNITED.网站备案/许可证号：\t辽ICP备15015555号-1"
         },
         {
           "_styles": {
@@ -485,11 +495,23 @@
             },
             ".mbr-section-subtitle FONT": {
               "color": "#cccccc"
+            },
+            ".card-block DIV": {
+              "font-size": "13px",
+              "text-align": "left",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".card-block SPAN": {
+              "text-align": "center"
+            },
+            ".card-block": {
+              "text-align": "left"
             }
           },
           "testimonial": [
             {
-              "text": "创业不易，仍需坚持！",
+              "text": "<div><span style=\"font-size: 1.125rem; line-height: 2;\">10Richard·Zhang</span><br></div><div>CEO/创始人</div><div><span style=\"text-align: left; line-height: 2;\">- 2013年台北市营销大赛导师</span><br></div><div>- 2014年北大创业精英邀请导师</div><div>- I DO 婚戒特聘市场营销师</div><div>- 至今曾辅导多家传统企业转型互联网</div><div><br></div><div><span style=\"line-height: 2;\">获奖资历</span></div><div><span style=\"line-height: 2;\">- 2010年台北科技大学毕业，于同年获得“优秀毕业学员称号”</span><br></div><div><span style=\"line-height: 2;\">- 2010年4月于台北成立“微联邦”，获得最佳创业团队称号</span><br></div><div><span style=\"line-height: 2;\">- 2011年考取大连东北财经大学经济学研究生</span><br></div><div><span style=\"line-height: 2;\">- 2012年获得MBA工商管理学学位</span></div><div><br></div><div><b>擅长DSP／BTR／SSP </b>广告精准投放以及数据分析；目前为多家公司进行在线竞品、SEM、渠道整合外聘顾问。</div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/beacon-management-open-source-160x90-46.jpg",
@@ -507,7 +529,7 @@
               "authorBio": "CEO"
             },
             {
-              "text": "对于技术的无尽探索让我着迷！",
+              "text": "Jason·Sang<br><div></div><div>CTO/技术总监</div><div>- 2014年 大连大学生创业-大连东软团队技术部</div><div>- 2014年8月与台北科技大学交换生 Richard·Zhang 相识，创立公司-微联VUNITED</div><div>- 2014年，开发校园夺宝系统，首次尝试线上线下引流校园营销模式，获得校内外一致好评。目前项目原型已经正式上线 APPSTORE</div><div><span style=\"text-align: left; line-height: 2;\">- 2014年毕业后于大连五大银行技术部交流并实习，进行货币条码技术、及网络安全及反病毒工作。</span></div><div><span style=\"text-align: left; line-height: 2;\">- 2014年利用微信漏洞，协助大连软件园警方打掉跨省微商诈骗团伙。事件涉及金额10万，并全部追回。</span></div><div><span style=\"text-align: left; line-height: 2;\">- 2015年 正式运营公司微联 VUNITED 并通过主流世界级社交媒体进行业务合作。</span><span style=\"text-align: left; line-height: 2;\"><br></span></div><div><br></div><div><span style=\"line-height: 2;\">擅长网络安全维护、私人信息安全、防跟踪、反间谍技术、网络系统搭建、大中小网站建设。曾一人独立完成“网络B2B2C平台”搭建。目前为某艺术平台技术顾问及股东。</span><br></div>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1458748600212-a4c65493cbfd-160x106-94.jpg",
@@ -595,11 +617,11 @@
           },
           "_anchor": "contacts3-v",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1472220625704-91e1462799b2-2000x1333-18.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
             "overlay": true,
@@ -964,7 +986,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) VUNITED."
+          "text": "Copyright (c) VUNITED.网站备案/许可证号：\t辽ICP备15015555号-1"
         },
         {
           "_tags": [
@@ -1135,7 +1157,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) VUNITED."
+          "text": "Copyright (c) VUNITED.网站备案/许可证号：\t辽ICP备15015555号-1"
         }
       ]
     },
@@ -1245,7 +1267,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) VUNITED."
+          "text": "Copyright (c) VUNITED.网站备案/许可证号：\t辽ICP备15015555号-1"
         }
       ]
     },
@@ -1355,7 +1377,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) VUNITED."
+          "text": "Copyright (c) VUNITED.网站备案/许可证号：\t辽ICP备15015555号-1"
         }
       ]
     },
@@ -1465,7 +1487,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) VUNITED."
+          "text": "Copyright (c) VUNITED.网站备案/许可证号：\t辽ICP备15015555号-1"
         }
       ]
     },
@@ -1575,7 +1597,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) VUNITED."
+          "text": "Copyright (c) VUNITED.网站备案/许可证号：\t辽ICP备15015555号-1"
         }
       ]
     }
